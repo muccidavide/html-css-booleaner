@@ -20,7 +20,10 @@
 }
 
 /* article */
-#header-article{
+
+
+/* img-section*/
+article{
     margin: 5px 20px;
 }
 
@@ -28,7 +31,7 @@ h2{
     font-size: 40px;
 }
 
-#autore{
+.description{
     color: #a0a0a0;
 } 
 
@@ -38,6 +41,18 @@ a{
 }
 
 
+/* main-part article */
+.margin-space{
+    margin-top: 20px;
+   
+}
 
+mark{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: 20px;
+}
 
 /* section-more */
