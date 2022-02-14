@@ -43,7 +43,7 @@ a{
 
 /* main-part article */
 .margin-space{
-    margin-top: 20px;
+    margin-top: 30px;
    
 }
 
@@ -54,5 +54,25 @@ mark{
 ul{
     margin-left: 20px;
 }
+
+/* table */
+
+table{
+    border-collapse: collapse;
+}
+
+.lightblue-cell{
+    background-color: #b1e5f2;
+}
+
+.blue-cell{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.cell-width{
+    width: 50%;
+}
+
 
 /* section-more */
