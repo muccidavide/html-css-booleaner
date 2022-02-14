@@ -24,11 +24,11 @@
 
 /* img-section*/
 article{
-    margin: 5px 20px;
+    margin: 5px 10px;
 }
 
 h2{
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .description{
@@ -76,3 +76,14 @@ table{
 
 
 /* section-more */
+.section-more{
+    margin: 5px 20px;
+}
+h3{
+    margin: 20px 0 20px 0;
+    color: #a0a0a0;
+}
+
+#img-block{
+    display: block;
+}
