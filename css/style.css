@@ -1,0 +1,24 @@
+/* header */
+
+.header-site{
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size:  30%;
+    
+    
+   
+}
+
+#logo{
+    width: 15%;
+    margin: 40px 10px;
+}
+
+
+
+/* article */
+
+
+
+/* section-more */
